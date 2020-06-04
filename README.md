@@ -11,4 +11,6 @@ HtmlStartApp：https://github.com/winterSwallow/Knowledge/wiki/Html%E5%90%AF%E5%
 
 RedisLock：https://github.com/winterSwallow/Knowledge/wiki/RedisLock%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81<br>
 
+SpringBoot-Resources：https://github.com/winterSwallow/Knowledge/wiki/SpringBoot-Thymeleaf-%E8%AE%BF%E9%97%AE%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E9%97%AE%E9%A2%98<br>
+
 knowledge accumulation
